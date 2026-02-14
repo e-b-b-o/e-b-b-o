@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v1-alpha-topaz.vercel.app/](https://portfolio-v1-alpha-topaz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-v1-alpha-topaz.vercel.app/]
 
-- 📝 I regularly write articles on [my telegram channel @dev_eee](my telegram channel @dev_eee)
+- 📝 I regularly write articles on [my telegram channel @dev_eee]
 
 - 💬 Ask me about **HTML ,CSS , JS**
 
