@@ -1,27 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ebba</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-- 🌱 I’m currently learning **React**
+<h1 align="center">Ebisa Getachew</h1>
+<h3 align="center">Frontend Developer • Future Full-Stack Engineer</h3>
 
-- 👯 I’m looking to collaborate on **FrontEnd Projects**
+---
 
-- 🤝 I’m looking for help with **React**
+## About
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v1-alpha-topaz.vercel.app/]
+I’m a frontend developer focused on building real-world projects with clean structure and modern JavaScript.
 
-- 📝 I regularly write articles on [my telegram channel @dev_eee]
+Currently strengthening my fundamentals and building production-style applications before transitioning deeper into full-stack development.
 
-- 💬 Ask me about **HTML ,CSS , JS**
+I value:
+- Clean UI
+- Maintainable code
+- Real project experience over tutorials
 
-- 📫 How to reach me **ebisagetachew1243@gmail.com**
+---
 
-- ⚡ Fun fact **I think it's better if we focus and increase out noise to signal ratio haha just kidding**
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/e.b.b.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.b.b.a" height="30" width="40" /></a>
-</p>
+### Frontend
+- HTML
+- CSS
+- JavaScript (ES6+)
+- React (Intermediate)
+- Tailwind CSS
+- TypeScript
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Backend
+- Node.js
+- Express
+- Python
 
+### Tools
+- Git
+- GitHub
+
+---
+
+## Current Focus
+
+- Building advanced JavaScript projects
+- Writing cleaner, more modular React code
+- Strengthening TypeScript fundamentals
+- Preparing for full-stack transition
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+## 2026 Goal
+
+Become a strong full-stack engineer by mastering frontend architecture first.
