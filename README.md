@@ -9,14 +9,14 @@
 
 ## About
 
-I’m a frontend developer focused on building real-world projects with clean structure and modern JavaScript.
+I’m a frontend developer focused on building modern web applications with React and TypeScript.
 
-Currently strengthening my fundamentals and building production-style applications before transitioning deeper into full-stack development.
+Currently deepening my understanding of React architecture, state management, and building production-style frontend projects before transitioning further into full-stack development.
 
 I value:
 - Clean UI
-- Maintainable code
-- Real project experience over tutorials
+- Maintainable and scalable code
+- Real project experience over passive learning
 
 ---
 
@@ -27,8 +27,8 @@ I value:
 - CSS
 - JavaScript (ES6+)
 - React (Intermediate)
-- Tailwind CSS
 - TypeScript
+- Tailwind CSS
 
 ### Backend
 - Node.js
@@ -43,9 +43,9 @@ I value:
 
 ## Current Focus
 
-- Building advanced JavaScript projects
-- Writing cleaner, more modular React code
-- Strengthening TypeScript fundamentals
+- Building structured React applications
+- Improving component architecture
+- Writing cleaner TypeScript in React
 - Preparing for full-stack transition
 
 ---
