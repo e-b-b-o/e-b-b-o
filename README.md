@@ -46,7 +46,7 @@ I focus on:
 
 - Building structured React applications
 - Improving JavaScript fundamentals
-- Writing cleaner TypeScript in React
+- Writing cleaner JavaScript in React
 - Preparing for full-stack transition
 
 ---
