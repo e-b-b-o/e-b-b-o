@@ -9,13 +9,15 @@
 
 ## About
 
-I am a frontend developer focused on building modern, scalable, and user-centered web applications using React and JavaScript. My approach to development is structured and intentional — I prioritize clean architecture, reusable components, and maintainable codebases that can scale beyond small projects.
+I build modern, responsive, and scalable web applications that help businesses turn ideas into clean, functional digital products. I focus on delivering intuitive user experiences, maintainable codebases, and well-structured frontend systems that are easy to scale and improve over time.
 
-I specialize in transforming ideas into responsive and interactive user interfaces while maintaining strong code organization and performance awareness. I care about writing readable code, structuring projects professionally, and understanding how systems connect from frontend to backend.
+My work emphasizes performance, clarity, and professional architecture — ensuring that projects are not just visually appealing, but also reliable and built for growth.
 
-Currently, I am strengthening my expertise in advanced React patterns, component composition, state management, and application structure. At the same time, I am expanding into full-stack development by integrating backend services using Node.js, Express, and Python, with database management through MongoDB.
+---
 
-My long-term goal is to evolve into a well-rounded full-stack engineer capable of designing, building, and deploying complete production-ready systems.
+## Current Focus
+
+Deepening my expertise in advanced React patterns, clean state management, and scalable project architecture while expanding into full-stack development using Node.js, Express, Python, and MongoDB.
 
 ---
 
