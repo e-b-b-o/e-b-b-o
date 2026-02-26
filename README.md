@@ -9,48 +9,29 @@
 
 ## About
 
-I’m a frontend developer focused on building modern web applications using React and JavaScript.
+I am a frontend developer focused on building modern, scalable, and user-centered web applications using React and JavaScript. My approach to development is structured and intentional — I prioritize clean architecture, reusable components, and maintainable codebases that can scale beyond small projects.
 
-Currently strengthening my understanding of component architecture, state management, and writing clean, scalable frontend code before transitioning fully into full-stack development.
+I specialize in transforming ideas into responsive and interactive user interfaces while maintaining strong code organization and performance awareness. I care about writing readable code, structuring projects professionally, and understanding how systems connect from frontend to backend.
 
-I focus on:
-- Clean and responsive UI
-- Reusable components
-- Maintainable project structure
-- Real-world application development
+Currently, I am strengthening my expertise in advanced React patterns, component composition, state management, and application structure. At the same time, I am expanding into full-stack development by integrating backend services using Node.js, Express, and Python, with database management through MongoDB.
+
+My long-term goal is to evolve into a well-rounded full-stack engineer capable of designing, building, and deploying complete production-ready systems.
 
 ---
 
-## Tech Stack
+## Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript (ES6+)
-- React (Intermediate)
-- TypeScript
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- Python
-
-### Tools
-- Git
-- GitHub
-
----
-
-## Current Focus
-
-- Building structured React applications
-- Improving JavaScript fundamentals
-- Writing cleaner JavaScript in React
-- Preparing for full-stack transition
-
----
-
-## 2026 Goal
-
-Master React and JavaScript deeply, then transition into strong full-stack engineering.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</p>
